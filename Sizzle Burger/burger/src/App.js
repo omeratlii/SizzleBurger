@@ -8,7 +8,7 @@ import { Navbar } from './Components/Navbar';
 import { Footer } from './Components/Footer';
 
 
-// react router 6'yı porjemize entegre ettik
+// react router 6'yı projemize entegre ettik
 function App() {
   return (
     <div className="App">
